@@ -1,2 +1,2 @@
 # examples
-This rep is save some good java and related front and back end frameworks.
+This rep is to develop and save some good java and related front and back end frameworks.
